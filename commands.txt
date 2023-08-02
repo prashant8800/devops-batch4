@@ -3,3 +3,4 @@ git status
 git clone
 git remote -v
 git remote add origin
+git remote rm origin
